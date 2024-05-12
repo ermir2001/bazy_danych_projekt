@@ -1,6 +1,7 @@
 # bazy_danych_projekt
 
-Temat: System zarządzania kolekcją gier planszowych
+Temat: 
+System zarządzania kolekcją gier planszowych
 
 Zakres: 
 1.	Katalogowanie gier według mechanik (deck-building, worker placment, dice-rolling, trading)
